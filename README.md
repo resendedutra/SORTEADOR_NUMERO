@@ -3,7 +3,7 @@
 <div>
   <h2>Telas</h2>
   <img width="300" height="auto" alt="Captura de tela 2026-11-15 181217" src="https://github.com/user-attachments/assets/451b941e-8e9f-4ea8-9a16-c2a976a80028" />
-  <img width="1912" height="953" alt="Captura de tela 2026-11-15 181156" src="https://github.com/user-attachments/assets/4e1b05ec-fa36-430a-9326-3f2fcdbe6abe" />
+  <img width="300" height="auto" alt="Captura de tela 2026-11-15 181156" src="https://github.com/user-attachments/assets/4e1b05ec-fa36-430a-9326-3f2fcdbe6abe" />
 <div>
 <br>
 <br>
