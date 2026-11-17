@@ -1,4 +1,4 @@
-<h1>CONVERSOR DE MOEDAS</h1>
+<h1>SORTEADOR DE NÚMEROS</h1>
 <br>
 <div>
   <h2>Telas</h2>
